@@ -1,0 +1,22 @@
+2024-09-19 16:17:17.234 [info] 
+
+
+
+
+2024-09-19 16:17:17.234 [info] Extension host agent started.
+2024-09-19 16:17:17.235 [info] Started initializing default profile extensions in extensions installation folder. file:///home/eduardoabc_edurdo9/.codeoss/extensions
+2024-09-19 16:17:17.259 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/eduardoabc_edurdo9/.codeoss/extensions
+2024-09-19 16:17:59.582 [info] [127.0.0.1][b7348407][ManagementConnection] New connection established.
+2024-09-19 16:18:00.025 [info] [127.0.0.1][d61c47e9][ExtensionHostConnection] New connection established.
+2024-09-19 16:18:02.243 [info] [127.0.0.1][d61c47e9][ExtensionHostConnection] <1194> Launched Extension Host Process.
+2024-09-19 16:18:50.183 [info] [127.0.0.1][b7348407][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-19 16:18:50.338 [info] [127.0.0.1][d61c47e9][ExtensionHostConnection] <1194> Extension Host Process exited with code: 0, signal: null.
+2024-09-19 16:28:40.769 [info] [127.0.0.1][db6d8d2d][ManagementConnection] New connection established.
+2024-09-19 16:28:41.253 [info] [127.0.0.1][06532bc2][ExtensionHostConnection] New connection established.
+2024-09-19 16:28:41.274 [info] [127.0.0.1][06532bc2][ExtensionHostConnection] <2670> Launched Extension Host Process.
+2024-09-19 16:32:27.591 [info] [127.0.0.1][db6d8d2d][ManagementConnection] The client has reconnected.
+2024-09-19 16:33:51.357 [info] [127.0.0.1][db6d8d2d][ManagementConnection] The client has reconnected.
+2024-09-19 16:37:25.872 [info] [127.0.0.1][db6d8d2d][ManagementConnection] The client has reconnected.
+2024-09-19 16:41:37.382 [info] [127.0.0.1][db6d8d2d][ManagementConnection] The client has reconnected.
+2024-09-19 17:41:38.515 [info] [127.0.0.1][db6d8d2d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-19 17:41:38.618 [info] [127.0.0.1][06532bc2][ExtensionHostConnection] <2670> Extension Host Process exited with code: 0, signal: null.

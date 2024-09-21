@@ -1,0 +1,986 @@
+[Info  - 1:16:03 PM] 2024/09/21 13:16:03 Created View (#1)
+	directory=/home/eduardoabc_edurdo9
+	view_type="AdHoc"
+	root_dir="file:///home/eduardoabc_edurdo9"
+	go_version="go version go1.23.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/eduardoabc_edurdo9/.cache/go-build GOMODCACHE:/home/eduardoabc_edurdo9/gopath/pkg/mod GOPATH:/home/eduardoabc_edurdo9/gopath:/google/gopath GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GoVersion:23 GoVersionOutput:go version go1.23.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 1:16:03 PM] 2024/09/21 13:16:03 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/eduardoabc_edurdo9
+	query=[./ builtin]
+	packages=2
+	duration=87.239333ms
+
+[Info  - 1:16:03 PM] 2024/09/21 13:16:03 Created View (#2)
+	directory=/home/eduardoabc_edurdo9
+	view_type="GoMod"
+	root_dir="file:///home/eduardoabc_edurdo9/Projects"
+	go_version="go version go1.23.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/eduardoabc_edurdo9/.cache/go-build GOMODCACHE:/home/eduardoabc_edurdo9/gopath/pkg/mod GOPATH:/home/eduardoabc_edurdo9/gopath:/google/gopath GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GoVersion:23 GoVersionOutput:go version go1.23.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 1:16:04 PM] 2024/09/21 13:16:04 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/eduardoabc_edurdo9
+	query=[/home/eduardoabc_edurdo9/Projects/... builtin]
+	packages=4
+	duration=810.781154ms
+
+[Info  - 1:16:33 PM] 2024/09/21 13:16:33 background imports cache refresh starting
+
+[Info  - 1:16:33 PM] 2024/09/21 13:16:33 background refresh finished after 7.055152ms
+
+[Info  - 1:16:33 PM] 2024/09/21 13:16:33 background imports cache refresh starting
+
+[Info  - 1:16:33 PM] 2024/09/21 13:16:33 background refresh finished after 29.954792ms
+
+[Error - 1:23:40 PM] 2024/09/21 13:23:40 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:37:22: expected operand, found ',' (and 21 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:23:58 PM] 2024/09/21 13:23:58 background imports cache refresh starting
+
+[Info  - 1:23:58 PM] 2024/09/21 13:23:58 background refresh finished after 710.845µs
+
+[Info  - 1:25:26 PM] 2024/09/21 13:25:26 background imports cache refresh starting
+
+[Info  - 1:25:26 PM] 2024/09/21 13:25:26 background refresh finished after 716.372µs
+
+[Error - 1:25:26 PM] 2024/09/21 13:25:26 signature help failed: call operand is not a func or type: *ast.Ident (cap)
+	position=14:17
+
+[Info  - 1:25:45 PM] 2024/09/21 13:25:45 go/packages.Load #3
+	view_id="2"
+	snapshot=77
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=135.606585ms
+
+[Info  - 1:25:48 PM] 2024/09/21 13:25:48 go/packages.Load #4
+	view_id="2"
+	snapshot=81
+	directory=/home/eduardoabc_edurdo9
+	query=[modPlat]
+	packages=1
+	duration=143.047569ms
+
+[Info  - 1:25:50 PM] 2024/09/21 13:25:50 go/packages.Load #5
+	view_id="2"
+	snapshot=83
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=96.323216ms
+
+[Info  - 1:25:52 PM] 2024/09/21 13:25:52 go/packages.Load #6
+	view_id="2"
+	snapshot=83
+	directory=/home/eduardoabc_edurdo9
+	query=[modPlat]
+	packages=1
+	duration=134.789379ms
+
+[Info  - 1:25:55 PM] 2024/09/21 13:25:55 go/packages.Load #7
+	view_id="2"
+	snapshot=89
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=96.233649ms
+
+[Info  - 1:25:55 PM] 2024/09/21 13:25:55 go/packages.Load #9
+	view_id="2"
+	snapshot=91
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=133.720075ms
+
+[Info  - 1:25:56 PM] 2024/09/21 13:25:56 go/packages.Load #10
+	view_id="2"
+	snapshot=91
+	directory=/home/eduardoabc_edurdo9
+	query=[modPlat]
+	packages=1
+	duration=138.634246ms
+
+[Info  - 1:25:57 PM] 2024/09/21 13:25:57 background imports cache refresh starting
+
+[Info  - 1:25:57 PM] 2024/09/21 13:25:57 background refresh finished after 641.527µs
+
+[Info  - 1:26:27 PM] 2024/09/21 13:26:27 background imports cache refresh starting
+
+[Info  - 1:26:27 PM] 2024/09/21 13:26:27 background refresh finished after 769.641µs
+
+[Info  - 1:28:20 PM] 2024/09/21 13:28:20 go/packages.Load #11
+	view_id="2"
+	snapshot=99
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=37.19386ms
+
+[Info  - 1:28:21 PM] 2024/09/21 13:28:21 go/packages.Load #12
+	view_id="2"
+	snapshot=100
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=133.344968ms
+
+[Info  - 1:28:24 PM] 2024/09/21 13:28:24 go/packages.Load #14
+	view_id="2"
+	snapshot=104
+	directory=/home/eduardoabc_edurdo9
+	query=[modPlat]
+	packages=1
+	duration=134.393638ms
+
+[Info  - 1:28:42 PM] 2024/09/21 13:28:42 background imports cache refresh starting
+
+[Info  - 1:28:42 PM] 2024/09/21 13:28:42 background refresh finished after 711.416µs
+
+[Info  - 1:32:00 PM] 2024/09/21 13:32:00 background imports cache refresh starting
+
+[Info  - 1:32:00 PM] 2024/09/21 13:32:00 background refresh finished after 711.993µs
+
+[Info  - 1:32:31 PM] 2024/09/21 13:32:31 background imports cache refresh starting
+
+[Info  - 1:32:31 PM] 2024/09/21 13:32:31 background refresh finished after 745.204µs
+
+[Info  - 1:33:03 PM] 2024/09/21 13:33:03 background imports cache refresh starting
+
+[Info  - 1:33:03 PM] 2024/09/21 13:33:03 background refresh finished after 693.853µs
+
+[Info  - 1:33:33 PM] 2024/09/21 13:33:33 background imports cache refresh starting
+
+[Info  - 1:33:33 PM] 2024/09/21 13:33:33 background refresh finished after 721.102µs
+
+[Info  - 1:34:10 PM] 2024/09/21 13:34:10 background imports cache refresh starting
+
+[Info  - 1:34:10 PM] 2024/09/21 13:34:10 background refresh finished after 757.684µs
+
+[Info  - 1:35:37 PM] 2024/09/21 13:35:37 background imports cache refresh starting
+
+[Info  - 1:35:37 PM] 2024/09/21 13:35:37 background refresh finished after 876.734µs
+
+[Error - 1:35:54 PM] 2024/09/21 13:35:54 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:2: expected ';', found 'return' (and 1 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:35:54 PM] 2024/09/21 13:35:54 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:2: expected ';', found 'return' (and 1 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:35:58 PM] 2024/09/21 13:35:58 signature help failed: call operand is not a func or type: *ast.Ident (cap)
+	position=72:15
+
+[Info  - 1:36:08 PM] 2024/09/21 13:36:08 background imports cache refresh starting
+
+[Info  - 1:36:08 PM] 2024/09/21 13:36:08 background refresh finished after 945.114µs
+
+[Error - 1:36:37 PM] 2024/09/21 13:36:37 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected '{', found 'return' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:36:41 PM] Request textDocument/codeAction failed.
+  Message: column is beyond end of line
+  Code: 0 
+[Error - 1:36:42 PM] 2024/09/21 13:36:42 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected ';', found 'return' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:36:48 PM] 2024/09/21 13:36:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected ';', found 'return' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:36:48 PM] 2024/09/21 13:36:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected '{', found 'return' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:36:50 PM] 2024/09/21 13:36:50 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected ';', found 'return' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:36:57 PM] 2024/09/21 13:36:57 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected ';', found 'return' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:37:00 PM] 2024/09/21 13:37:00 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected ';', found 'return' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:37:01 PM] 2024/09/21 13:37:01 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected '{', found 'return' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:37:07 PM] 2024/09/21 13:37:07 background imports cache refresh starting
+
+[Info  - 1:37:07 PM] 2024/09/21 13:37:07 background refresh finished after 968.91µs
+
+[Error - 1:37:19 PM] 2024/09/21 13:37:18 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:3: expected 1 expression (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:37:30 PM] 2024/09/21 13:37:30 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:14: string literal not terminated (and 12 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:37:40 PM] 2024/09/21 13:37:40 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2: expected operand, found '}' (and 10 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:37:46 PM] 2024/09/21 13:37:46 background imports cache refresh starting
+
+[Info  - 1:37:46 PM] 2024/09/21 13:37:46 background refresh finished after 725.873µs
+
+[Error - 1:37:54 PM] 2024/09/21 13:37:54 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:17: expected operand, found '{' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:37:58 PM] 2024/09/21 13:37:58 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:26: expected operand, found '{' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:13 PM] 2024/09/21 13:38:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:19: missing ',' before newline in argument list (and 12 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:13 PM] 2024/09/21 13:38:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:19: missing ',' before newline in argument list (and 12 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:38:18 PM] 2024/09/21 13:38:18 background imports cache refresh starting
+
+[Info  - 1:38:18 PM] 2024/09/21 13:38:18 background refresh finished after 1.48973ms
+
+[Error - 1:38:43 PM] 2024/09/21 13:38:43 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:77:2: expected ';', found 'return' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:44 PM] 2024/09/21 13:38:44 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:77:2: expected ';', found 'return' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:45 PM] 2024/09/21 13:38:45 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:47 PM] 2024/09/21 13:38:47 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:48 PM] 2024/09/21 13:38:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:48 PM] 2024/09/21 13:38:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:38:48 PM] 2024/09/21 13:38:48 background imports cache refresh starting
+
+[Info  - 1:38:48 PM] 2024/09/21 13:38:48 background refresh finished after 865.459µs
+
+[Error - 1:38:48 PM] 2024/09/21 13:38:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:49 PM] 2024/09/21 13:38:49 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:49 PM] 2024/09/21 13:38:49 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:50 PM] 2024/09/21 13:38:50 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:50 PM] 2024/09/21 13:38:50 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:51 PM] 2024/09/21 13:38:51 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:53 PM] 2024/09/21 13:38:53 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:56 PM] 2024/09/21 13:38:56 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:57 PM] 2024/09/21 13:38:57 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:59 PM] 2024/09/21 13:38:59 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:38:59 PM] 2024/09/21 13:38:59 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11: missing condition in if statement
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:39:07 PM] 2024/09/21 13:39:07 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:26: expected operand, found '{' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:39:07 PM] 2024/09/21 13:39:07 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:27: expected operand, found '{' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:39:09 PM] 2024/09/21 13:39:09 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:27: expected operand, found '{' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:39:18 PM] 2024/09/21 13:39:18 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=74:30
+
+[Error - 1:39:19 PM] 2024/09/21 13:39:19 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:31: expected operand, found '{' (and 12 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:39:30 PM] 2024/09/21 13:39:30 background imports cache refresh starting
+
+[Info  - 1:39:30 PM] 2024/09/21 13:39:30 background refresh finished after 771.247µs
+
+[Info  - 1:40:02 PM] 2024/09/21 13:40:02 background imports cache refresh starting
+
+[Info  - 1:40:02 PM] 2024/09/21 13:40:02 background refresh finished after 819.639µs
+
+[Error - 1:40:08 PM] 2024/09/21 13:40:08 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found simple statement (missing parentheses around composite literal?) (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:09 PM] 2024/09/21 13:40:09 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:09 PM] 2024/09/21 13:40:09 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:11 PM] 2024/09/21 13:40:11 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:11 PM] 2024/09/21 13:40:11 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:12 PM] 2024/09/21 13:40:12 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:13 PM] 2024/09/21 13:40:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:13 PM] 2024/09/21 13:40:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:13 PM] 2024/09/21 13:40:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:14 PM] 2024/09/21 13:40:14 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:15 PM] 2024/09/21 13:40:15 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:15 PM] 2024/09/21 13:40:15 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2: expected ';', found 'return' (and 5 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:23 PM] 2024/09/21 13:40:23 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:37: expected '{', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:23 PM] 2024/09/21 13:40:23 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:37: expected '{', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:24 PM] 2024/09/21 13:40:24 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:37: expected '{', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:25 PM] 2024/09/21 13:40:25 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:37: expected '{', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:40:32 PM] 2024/09/21 13:40:32 background imports cache refresh starting
+
+[Info  - 1:40:32 PM] 2024/09/21 13:40:32 background refresh finished after 746.329µs
+
+[Error - 1:40:40 PM] 2024/09/21 13:40:40 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:7: expected operand, found ']'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:43 PM] 2024/09/21 13:40:43 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2: expected operand, found '}' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:43 PM] 2024/09/21 13:40:43 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2: expected operand, found '}' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:45 PM] 2024/09/21 13:40:45 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2: expected operand, found '}' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:47 PM] 2024/09/21 13:40:47 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:16: expected operand, found ']'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:40:47 PM] 2024/09/21 13:40:47 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:16: expected operand, found ']'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:41:02 PM] 2024/09/21 13:41:02 background imports cache refresh starting
+
+[Info  - 1:41:02 PM] 2024/09/21 13:41:02 background refresh finished after 716.705µs
+
+[Error - 1:41:05 PM] 2024/09/21 13:41:05 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:83:4: expected operand, found ']'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:41:12 PM] 2024/09/21 13:41:12 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:83:10: expected type, found '='
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:41:33 PM] 2024/09/21 13:41:33 background imports cache refresh starting
+
+[Info  - 1:41:33 PM] 2024/09/21 13:41:33 background refresh finished after 670.774µs
+
+[Info  - 1:42:06 PM] 2024/09/21 13:42:06 background imports cache refresh starting
+
+[Info  - 1:42:06 PM] 2024/09/21 13:42:06 background refresh finished after 684.31µs
+
+[Error - 1:42:37 PM] 2024/09/21 13:42:37 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:7: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:42:37 PM] 2024/09/21 13:42:37 background imports cache refresh starting
+
+[Info  - 1:42:37 PM] 2024/09/21 13:42:37 background refresh finished after 694.824µs
+
+[Error - 1:42:38 PM] 2024/09/21 13:42:38 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:9: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:42:39 PM] 2024/09/21 13:42:39 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:11: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:42:41 PM] 2024/09/21 13:42:41 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:16: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:43:06 PM] 2024/09/21 13:43:06 go/packages.Load #15
+	view_id="2"
+	snapshot=900
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=139.695484ms
+
+[Info  - 1:43:08 PM] 2024/09/21 13:43:08 go/packages.Load #16
+	view_id="2"
+	snapshot=900
+	directory=/home/eduardoabc_edurdo9
+	query=[modPlat]
+	packages=1
+	duration=145.018046ms
+
+[Info  - 1:43:12 PM] 2024/09/21 13:43:12 background imports cache refresh starting
+
+[Info  - 1:43:12 PM] 2024/09/21 13:43:12 background refresh finished after 702.501µs
+
+[Info  - 1:44:04 PM] 2024/09/21 13:44:04 go/packages.Load #17
+	view_id="2"
+	snapshot=904
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=36.998248ms
+
+[Error - 1:44:04 PM] 2024/09/21 13:44:04 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2: illegal character U+0023 '#' (and 1 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:04 PM] 2024/09/21 13:44:04 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2: illegal character U+0023 '#' (and 1 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:44:05 PM] 2024/09/21 13:44:05 go/packages.Load #18
+	view_id="2"
+	snapshot=904
+	directory=/home/eduardoabc_edurdo9
+	query=[modPlat]
+	packages=1
+	duration=133.870282ms
+
+[Error - 1:44:06 PM] 2024/09/21 13:44:06 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2: illegal character U+0023 '#' (and 1 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:06 PM] 2024/09/21 13:44:06 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2: illegal character U+0023 '#' (and 1 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:06 PM] Request textDocument/formatting failed.
+  Message: 5:2: illegal character U+0023 '#'
+  Code: 0 
+[Error - 1:44:07 PM] 2024/09/21 13:44:07 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2: illegal character U+0023 '#' (and 1 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:44:08 PM] 2024/09/21 13:44:08 go/packages.Load #19
+	view_id="2"
+	snapshot=910
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=131.364326ms
+
+[Info  - 1:44:08 PM] 2024/09/21 13:44:08 go/packages.Load #20
+	view_id="2"
+	snapshot=911
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=38.054287ms
+
+[Info  - 1:44:09 PM] 2024/09/21 13:44:09 go/packages.Load #21
+	view_id="2"
+	snapshot=912
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go]
+	packages=1
+	duration=130.824426ms
+
+[Info  - 1:44:10 PM] 2024/09/21 13:44:10 go/packages.Load #22
+	view_id="2"
+	snapshot=912
+	directory=/home/eduardoabc_edurdo9
+	query=[modPlat]
+	packages=1
+	duration=138.170303ms
+
+[Info  - 1:44:32 PM] 2024/09/21 13:44:32 background imports cache refresh starting
+
+[Info  - 1:44:32 PM] 2024/09/21 13:44:32 background refresh finished after 943.288µs
+
+[Error - 1:44:35 PM] 2024/09/21 13:44:35 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:1: expected declaration, found fu
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:36 PM] 2024/09/21 13:44:36 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:6: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:38 PM] 2024/09/21 13:44:38 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:10: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:38 PM] 2024/09/21 13:44:38 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:11: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:39 PM] 2024/09/21 13:44:39 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:11: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:40 PM] 2024/09/21 13:44:40 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:11: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:42 PM] 2024/09/21 13:44:42 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:7: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:44 PM] 2024/09/21 13:44:44 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:9: expected 'IDENT', found newline (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:45 PM] 2024/09/21 13:44:45 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:13: expected 'IDENT', found newline (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:46 PM] 2024/09/21 13:44:46 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:20: expected 'IDENT', found newline (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:46 PM] 2024/09/21 13:44:46 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:20: expected 'IDENT', found newline (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:48 PM] 2024/09/21 13:44:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:20: expected 'IDENT', found newline (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:54 PM] 2024/09/21 13:44:54 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:21: expected 'IDENT', found newline (and 3 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:55 PM] 2024/09/21 13:44:55 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:23: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:44:56 PM] 2024/09/21 13:44:56 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:31: expected '(', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:45:02 PM] 2024/09/21 13:45:02 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:1: expected operand, found '}' (and 5 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:45:03 PM] 2024/09/21 13:45:03 background imports cache refresh starting
+
+[Info  - 1:45:03 PM] 2024/09/21 13:45:03 background refresh finished after 650.425µs
+
+[Error - 1:45:03 PM] 2024/09/21 13:45:03 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:1: expected operand, found '}' (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:45:04 PM] 2024/09/21 13:45:04 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:1: expected operand, found '}' (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:45:06 PM] 2024/09/21 13:45:06 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:45:06 PM] 2024/09/21 13:45:06 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:45:09 PM] 2024/09/21 13:45:09 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:1: expected operand, found '}' (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:45:13 PM] 2024/09/21 13:45:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:1: expected operand, found '}' (and 5 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:45:15 PM] 2024/09/21 13:45:15 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:33: expected '{', found newline (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:45:40 PM] 2024/09/21 13:45:40 background imports cache refresh starting
+
+[Info  - 1:45:40 PM] 2024/09/21 13:45:40 background refresh finished after 740.651µs
+
+[Info  - 1:46:22 PM] 2024/09/21 13:46:22 background imports cache refresh starting
+
+[Info  - 1:46:22 PM] 2024/09/21 13:46:22 background refresh finished after 700.125µs
+
+[Error - 1:46:23 PM] 2024/09/21 13:46:23 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{l printVetor})
+	position=13:14
+
+[Info  - 1:46:33 PM] 2024/09/21 13:46:33 go/packages.Load #23
+	view_id="2"
+	snapshot=1114
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/main.go]
+	packages=1
+	duration=139.316635ms
+
+[Info  - 1:46:54 PM] 2024/09/21 13:46:54 background imports cache refresh starting
+
+[Info  - 1:46:54 PM] 2024/09/21 13:46:54 background refresh finished after 689.346µs
+
+[Error - 1:47:13 PM] 2024/09/21 13:47:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:13: string literal not terminated (and 9 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:47:13 PM] 2024/09/21 13:47:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:33: missing ',' in argument list
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:47:14 PM] 2024/09/21 13:47:14 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:33: missing ',' in argument list
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:47:15 PM] 2024/09/21 13:47:15 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:34: missing ',' in argument list
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:47:17 PM] 2024/09/21 13:47:17 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:35: missing ',' in argument list
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:47:25 PM] 2024/09/21 13:47:25 background imports cache refresh starting
+
+[Info  - 1:47:25 PM] 2024/09/21 13:47:25 background refresh finished after 667.749µs
+
+[Error - 1:47:55 PM] 2024/09/21 13:47:55 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:37: missing ',' in argument list
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:47:56 PM] 2024/09/21 13:47:56 background imports cache refresh starting
+
+[Info  - 1:47:56 PM] 2024/09/21 13:47:56 background refresh finished after 904.377µs
+
+[Info  - 1:48:27 PM] 2024/09/21 13:48:27 background imports cache refresh starting
+
+[Info  - 1:48:27 PM] 2024/09/21 13:48:27 background refresh finished after 707.32µs
+
+[Info  - 1:49:03 PM] 2024/09/21 13:49:03 background imports cache refresh starting
+
+[Info  - 1:49:03 PM] 2024/09/21 13:49:03 background refresh finished after 856.925µs
+
+[Error - 1:49:16 PM] 2024/09/21 13:49:16 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:12: expected statement, found ')' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:49:17 PM] 2024/09/21 13:49:17 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:14: expected statement, found ')' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:49:17 PM] 2024/09/21 13:49:17 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:16: expected statement, found ')' (and 4 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:49:34 PM] Request textDocument/foldingRange failed.
+  Message: context canceled
+  Code: 0 
+[Error - 1:49:35 PM] 2024/09/21 13:49:35 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:15: expected operand, found ')' (and 8 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:49:35 PM] 2024/09/21 13:49:35 background imports cache refresh starting
+
+[Info  - 1:49:35 PM] 2024/09/21 13:49:35 background refresh finished after 782.357µs
+
+[Info  - 1:50:08 PM] 2024/09/21 13:50:08 background imports cache refresh starting
+
+[Info  - 1:50:08 PM] 2024/09/21 13:50:08 background refresh finished after 824.167µs
+
+[Info  - 1:50:38 PM] 2024/09/21 13:50:38 background imports cache refresh starting
+
+[Info  - 1:50:38 PM] 2024/09/21 13:50:38 background refresh finished after 688.527µs
+
+[Error - 1:50:57 PM] 2024/09/21 13:50:57 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:50:57 PM] 2024/09/21 13:50:57 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:50:58 PM] 2024/09/21 13:50:58 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:51:01 PM] 2024/09/21 13:51:01 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:16: expected operand, found '{' (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:51:03 PM] 2024/09/21 13:51:03 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:19: expected ';', found '{' (and 6 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 1:51:04 PM] 2024/09/21 13:51:04 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:28: expected ';', found '{' (and 6 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:51:09 PM] 2024/09/21 13:51:09 background imports cache refresh starting
+
+[Info  - 1:51:09 PM] 2024/09/21 13:51:09 background refresh finished after 736.688µs
+
+[Error - 1:51:11 PM] 2024/09/21 13:51:11 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:92:19: expected operand, found ']'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:51:40 PM] 2024/09/21 13:51:40 background imports cache refresh starting
+
+[Info  - 1:51:40 PM] 2024/09/21 13:51:40 background refresh finished after 762.665µs
+
+[Info  - 1:52:11 PM] 2024/09/21 13:52:11 background imports cache refresh starting
+
+[Info  - 1:52:11 PM] 2024/09/21 13:52:11 background refresh finished after 747.692µs
+
+[Info  - 1:53:13 PM] 2024/09/21 13:53:13 background imports cache refresh starting
+
+[Info  - 1:53:13 PM] 2024/09/21 13:53:13 background refresh finished after 675.973µs
+
+[Info  - 1:53:44 PM] 2024/09/21 13:53:44 background imports cache refresh starting
+
+[Info  - 1:53:44 PM] 2024/09/21 13:53:44 background refresh finished after 708.834µs
+
+[Info  - 1:54:44 PM] 2024/09/21 13:54:44 background imports cache refresh starting
+
+[Info  - 1:54:44 PM] 2024/09/21 13:54:44 background refresh finished after 768.725µs
+
+[Error - 1:54:52 PM] 2024/09/21 13:54:52 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:2: expected 1 expression (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:55:15 PM] 2024/09/21 13:55:15 background imports cache refresh starting
+
+[Info  - 1:55:15 PM] 2024/09/21 13:55:15 background refresh finished after 725.745µs
+
+[Info  - 1:55:47 PM] 2024/09/21 13:55:47 background imports cache refresh starting
+
+[Info  - 1:55:47 PM] 2024/09/21 13:55:47 background refresh finished after 681.034µs
+
+[Info  - 1:56:20 PM] 2024/09/21 13:56:20 background imports cache refresh starting
+
+[Info  - 1:56:20 PM] 2024/09/21 13:56:20 background refresh finished after 748.668µs
+
+[Error - 1:57:31 PM] 2024/09/21 13:57:31 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:32: expected operand, found ';' (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 1:57:32 PM] 2024/09/21 13:57:32 background imports cache refresh starting
+
+[Info  - 1:57:32 PM] 2024/09/21 13:57:32 background refresh finished after 749.266µs
+
+[Info  - 1:58:02 PM] 2024/09/21 13:58:02 background imports cache refresh starting
+
+[Info  - 1:58:02 PM] 2024/09/21 13:58:02 background refresh finished after 663.212µs
+
+[Info  - 2:05:22 PM] 2024/09/21 14:05:22 background imports cache refresh starting
+
+[Info  - 2:05:22 PM] 2024/09/21 14:05:22 background refresh finished after 736.14µs
+
+[Info  - 2:06:02 PM] 2024/09/21 14:06:02 background imports cache refresh starting
+
+[Info  - 2:06:02 PM] 2024/09/21 14:06:02 background refresh finished after 675.349µs
+
+[Info  - 2:06:46 PM] 2024/09/21 14:06:46 background imports cache refresh starting
+
+[Info  - 2:06:46 PM] 2024/09/21 14:06:46 background refresh finished after 727.758µs
+
+[Error - 2:07:10 PM] 2024/09/21 14:07:10 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:8: expected ';', found `
+		return errors.New("Index invalido")
+	} else if l.insertSize == len(l.v) {
+		l.duplicarVetor()
+	}
+	l.Add(0)
+	for i := l.insertSize - 1; i > index; i-- {
+		l.v[i] = l.v[i-1]
+	}
+
+	l.v[index] = elemento
+	l.insertSize += 1
+
+	return nil
+}
+
+func (l *ArrayList) PrintVetor() {
+	fmt.Println("Elementos do vetor: ")
+	for i := 0; i < l.insertSize - 1; i++ {
+		fmt.Println(l.v[i])
+	}
+
+}
+ (and 5 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 2:07:18 PM] 2024/09/21 14:07:18 background imports cache refresh starting
+
+[Info  - 2:07:18 PM] 2024/09/21 14:07:18 background refresh finished after 693.227µs
+
+[Info  - 2:07:53 PM] 2024/09/21 14:07:53 background imports cache refresh starting
+
+[Info  - 2:07:53 PM] 2024/09/21 14:07:53 background refresh finished after 1.395513ms
+
+[Info  - 2:08:23 PM] 2024/09/21 14:08:23 background imports cache refresh starting
+
+[Info  - 2:08:23 PM] 2024/09/21 14:08:23 background refresh finished after 672.52µs
+
+[Info  - 2:08:53 PM] 2024/09/21 14:08:53 background imports cache refresh starting
+
+[Info  - 2:08:53 PM] 2024/09/21 14:08:53 background refresh finished after 684.52µs
+
+[Error - 2:09:07 PM] 2024/09/21 14:09:07 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:37: missing ',' before newline in argument list (and 27 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 2:09:28 PM] 2024/09/21 14:09:28 background imports cache refresh starting
+
+[Info  - 2:09:28 PM] 2024/09/21 14:09:28 background refresh finished after 651.307µs
+
+[Info  - 2:09:44 PM] 2024/09/21 14:09:44 go/packages.Load #24
+	view_id="2"
+	snapshot=1809
+	directory=/home/eduardoabc_edurdo9
+	query=[file=/home/eduardoabc_edurdo9/Projects/main.go]
+	packages=1
+	duration=324.643956ms
+
+[Error - 2:09:46 PM] 2024/09/21 14:09:46 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:14: expected operand, found '.' (and 5 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Error - 2:09:46 PM] 2024/09/21 14:09:46 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:14: expected operand, found '.' (and 5 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Error - 2:09:46 PM] 2024/09/21 14:09:46 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:14: expected operand, found '.' (and 5 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Error - 2:09:47 PM] 2024/09/21 14:09:47 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:25: missing ',' before newline in argument list (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Error - 2:09:48 PM] 2024/09/21 14:09:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:25: missing ',' before newline in argument list (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Error - 2:09:48 PM] 2024/09/21 14:09:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:25: missing ',' before newline in argument list (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Error - 2:09:50 PM] 2024/09/21 14:09:50 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:27: missing ',' before newline in argument list (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Error - 2:09:51 PM] 2024/09/21 14:09:51 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:27: missing ',' before newline in argument list (and 7 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Info  - 2:09:58 PM] 2024/09/21 14:09:58 background imports cache refresh starting
+
+[Info  - 2:09:58 PM] 2024/09/21 14:09:58 background refresh finished after 739.574µs
+
+[Info  - 2:10:31 PM] 2024/09/21 14:10:31 background imports cache refresh starting
+
+[Info  - 2:10:31 PM] 2024/09/21 14:10:31 background refresh finished after 719.197µs
+
+[Info  - 2:11:56 PM] 2024/09/21 14:11:56 background imports cache refresh starting
+
+[Info  - 2:11:56 PM] 2024/09/21 14:11:56 background refresh finished after 877.162µs
+
+[Error - 2:11:59 PM] 2024/09/21 14:11:59 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected ';', found 'return' (and 34 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:02 PM] 2024/09/21 14:12:02 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected ';', found 'return' (and 34 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:02 PM] 2024/09/21 14:12:02 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected ';', found 'return' (and 34 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:04 PM] 2024/09/21 14:12:04 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected ';', found 'return' (and 34 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:12 PM] 2024/09/21 14:12:12 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected '{', found 'return' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:12 PM] 2024/09/21 14:12:12 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected '{', found 'return' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:13 PM] 2024/09/21 14:12:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected '{', found 'return' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:14 PM] 2024/09/21 14:12:14 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected '{', found 'return' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:14 PM] 2024/09/21 14:12:14 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected '{', found 'return' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:12:26 PM] 2024/09/21 14:12:26 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2: expected '{', found 'return' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 2:12:27 PM] 2024/09/21 14:12:27 background imports cache refresh starting
+
+[Info  - 2:12:27 PM] 2024/09/21 14:12:27 background refresh finished after 658.424µs
+
+[Info  - 2:12:57 PM] 2024/09/21 14:12:57 background imports cache refresh starting
+
+[Info  - 2:12:57 PM] 2024/09/21 14:12:57 background refresh finished after 692.63µs
+
+[Error - 2:13:11 PM] 2024/09/21 14:13:11 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:4: expected ';', found 'if'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:12 PM] 2024/09/21 14:13:12 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:4: expected ';', found 'if'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:13 PM] 2024/09/21 14:13:13 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:4: expected ';', found 'if'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:19 PM] 2024/09/21 14:13:19 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:3: expected ';', found '['
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 2:13:28 PM] 2024/09/21 14:13:28 background imports cache refresh starting
+
+[Info  - 2:13:28 PM] 2024/09/21 14:13:28 background refresh finished after 728.675µs
+
+[Error - 2:13:36 PM] 2024/09/21 14:13:36 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:69:6: expected boolean or range expression, found simple statement (missing parentheses around composite literal?) (and 34 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:37 PM] 2024/09/21 14:13:37 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:69:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 34 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:38 PM] 2024/09/21 14:13:38 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:39 PM] 2024/09/21 14:13:39 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:41 PM] 2024/09/21 14:13:41 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:41 PM] 2024/09/21 14:13:41 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:45 PM] 2024/09/21 14:13:45 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:45 PM] 2024/09/21 14:13:45 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:46 PM] 2024/09/21 14:13:46 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:48 PM] 2024/09/21 14:13:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:48 PM] 2024/09/21 14:13:48 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:49 PM] 2024/09/21 14:13:49 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:51 PM] 2024/09/21 14:13:51 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected ';', found 'return' (and 35 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:13:58 PM] 2024/09/21 14:13:58 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected '{', found 'return' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 2:14:00 PM] 2024/09/21 14:14:00 background imports cache refresh starting
+
+[Info  - 2:14:00 PM] 2024/09/21 14:14:00 background refresh finished after 751.842µs
+
+[Error - 2:14:01 PM] 2024/09/21 14:14:01 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:69:39: expected '{', found newline (and 32 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:14:06 PM] 2024/09/21 14:14:06 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2: expected operand, found '}' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:14:07 PM] 2024/09/21 14:14:07 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:12: expected operand, found ']'
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:14:12 PM] 2024/09/21 14:14:12 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:17: expected type, found newline
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Error - 2:14:15 PM] 2024/09/21 14:14:15 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:7: expected type, found '=' (and 33 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go"
+
+[Info  - 2:14:33 PM] 2024/09/21 14:14:33 background imports cache refresh starting
+
+[Info  - 2:14:33 PM] 2024/09/21 14:14:33 background refresh finished after 729.932µs
+
+[Error - 2:14:56 PM] 2024/09/21 14:14:56 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/Projects/main.go:14:28: expected ';', found '~' (and 2 more errors)
+	file="/home/eduardoabc_edurdo9/Projects/main.go"
+
+[Info  - 2:15:18 PM] 2024/09/21 14:15:18 background imports cache refresh starting
+
+[Info  - 2:15:18 PM] 2024/09/21 14:15:18 background refresh finished after 746.334µs
+
+[Info  - 2:26:34 PM] 2024/09/21 14:26:34 background imports cache refresh starting
+
+[Info  - 2:26:34 PM] 2024/09/21 14:26:34 background refresh finished after 777.052µs
+
+[Info  - 2:27:06 PM] 2024/09/21 14:27:06 background imports cache refresh starting
+
+[Info  - 2:27:06 PM] 2024/09/21 14:27:06 background refresh finished after 773.297µs
+

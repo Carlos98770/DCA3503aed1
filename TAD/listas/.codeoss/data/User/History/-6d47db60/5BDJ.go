@@ -1,0 +1,7 @@
+package lista
+
+import (
+	"lista"
+)
+
+

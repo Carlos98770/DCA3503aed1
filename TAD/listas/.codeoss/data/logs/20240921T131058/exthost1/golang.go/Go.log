@@ -1,0 +1,1345 @@
+2024-09-21 13:23:33.757 [info] Running checks...
+2024-09-21 13:23:33.757 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:23:34.230 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:23:34.230 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:23:34.230 [info] 
+2024-09-21 13:23:38.376 [info] Running checks...
+2024-09-21 13:23:38.376 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:23:38.646 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:23:38.646 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:23:38.646 [info] 
+2024-09-21 13:23:43.835 [info] Running checks...
+2024-09-21 13:23:43.835 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:23:44.118 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:23:44.118 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:23:44.118 [info] 
+2024-09-21 13:25:24.481 [info] Running checks...
+2024-09-21 13:25:24.481 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:25:25.149 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:25:25.149 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:25:25.149 [info] 
+2024-09-21 13:25:26.509 [info] Running checks...
+2024-09-21 13:25:26.509 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:25:26.842 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:25:26.843 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:25:26.843 [info] 
+2024-09-21 13:25:28.770 [info] Running checks...
+2024-09-21 13:25:28.771 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:25:29.087 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:25:29.087 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:25:29.087 [info] 
+2024-09-21 13:25:32.991 [info] Running checks...
+2024-09-21 13:25:32.991 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:25:33.326 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:25:33.326 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:25:33.326 [info] 
+2024-09-21 13:25:46.583 [info] Running checks...
+2024-09-21 13:25:46.584 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:25:46.998 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:25:46.998 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:25:46.998 [info] 
+2024-09-21 13:25:53.840 [info] Running checks...
+2024-09-21 13:25:53.840 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:25:54.135 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:25:54.135 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used
+2024-09-21 13:25:54.135 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:24:2 undefined: fmt (compile)
+2024-09-21 13:25:54.135 [info] 
+2024-09-21 13:25:57.201 [info] Running checks...
+2024-09-21 13:25:57.201 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:25:57.520 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:25:57.520 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:25:57.521 [info] 
+2024-09-21 13:26:03.293 [info] Running checks...
+2024-09-21 13:26:03.293 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:26:03.611 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:26:03.611 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:26:03.611 [info] 
+2024-09-21 13:28:22.896 [info] Running checks...
+2024-09-21 13:28:22.896 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:28:23.254 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:28:23.254 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:28:23.254 [info] 
+2024-09-21 13:31:33.787 [info] Running checks...
+2024-09-21 13:31:33.788 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:31:34.114 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:31:34.114 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:46:8 cannot use &newV (value of type *[]int) as []int value in assignment (compile)
+2024-09-21 13:31:34.114 [info] 
+2024-09-21 13:31:35.403 [info] Running checks...
+2024-09-21 13:31:35.403 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:31:35.729 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:31:35.729 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:31:35.729 [info] 
+2024-09-21 13:31:37.821 [info] Running checks...
+2024-09-21 13:31:37.821 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:31:38.123 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:31:38.123 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:31:38.123 [info] 
+2024-09-21 13:31:43.727 [info] Running checks...
+2024-09-21 13:31:43.727 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:31:44.044 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:31:44.044 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:46:9 invalid operation: cannot indirect newV (variable of type []int) (compile)
+2024-09-21 13:31:44.044 [info] 
+2024-09-21 13:31:46.415 [info] Running checks...
+2024-09-21 13:31:46.416 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:31:46.715 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:31:46.715 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:31:46.715 [info] 
+2024-09-21 13:32:34.075 [info] Running checks...
+2024-09-21 13:32:34.075 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:32:34.383 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:32:34.383 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:38:2 declared and not used: newSize (compile)
+2024-09-21 13:32:34.383 [info] 
+2024-09-21 13:32:39.033 [info] Running checks...
+2024-09-21 13:32:39.033 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:32:39.395 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:32:39.395 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:32:39.395 [info] 
+2024-09-21 13:32:41.867 [info] Running checks...
+2024-09-21 13:32:41.867 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:32:42.175 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:32:42.175 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:32:42.175 [info] 
+2024-09-21 13:33:05.251 [info] Running checks...
+2024-09-21 13:33:05.251 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:33:05.646 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:33:05.646 [info] 
+2024-09-21 13:35:08.888 [info] Running checks...
+2024-09-21 13:35:08.888 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:09.236 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:09.236 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:09.236 [info] 
+2024-09-21 13:35:10.963 [info] Running checks...
+2024-09-21 13:35:10.963 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:11.313 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:11.313 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:11.313 [info] 
+2024-09-21 13:35:14.135 [info] Running checks...
+2024-09-21 13:35:14.136 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:14.491 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:14.491 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:14.491 [info] 
+2024-09-21 13:35:15.713 [info] Running checks...
+2024-09-21 13:35:15.714 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:16.037 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:16.037 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:16.037 [info] 
+2024-09-21 13:35:18.904 [info] Running checks...
+2024-09-21 13:35:18.904 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:19.220 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:19.220 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:19.220 [info] 
+2024-09-21 13:35:20.688 [info] Running checks...
+2024-09-21 13:35:20.688 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:20.990 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:20.990 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:20.990 [info] 
+2024-09-21 13:35:38.333 [info] Running checks...
+2024-09-21 13:35:38.333 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:38.676 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:38.676 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:38.676 [info] 
+2024-09-21 13:35:41.690 [info] Running checks...
+2024-09-21 13:35:41.690 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:42.024 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:42.024 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 undefined: ise (compile)
+2024-09-21 13:35:42.025 [info] 
+2024-09-21 13:35:43.936 [info] Running checks...
+2024-09-21 13:35:43.937 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:44.279 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:44.279 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:35:44.280 [info] 
+2024-09-21 13:35:48.046 [info] Running checks...
+2024-09-21 13:35:48.047 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:48.382 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:48.382 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 len (built-in) must be called (compile)
+2024-09-21 13:35:48.382 [info] 
+2024-09-21 13:35:49.918 [info] Running checks...
+2024-09-21 13:35:49.918 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:50.235 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:50.235 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 undefined: lenght (compile)
+2024-09-21 13:35:50.235 [info] 
+2024-09-21 13:35:57.504 [info] Running checks...
+2024-09-21 13:35:57.504 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:35:57.860 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:35:57.860 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght
+2024-09-21 13:35:57.860 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:12 len (built-in) must be called (compile)
+2024-09-21 13:35:57.860 [info] 
+2024-09-21 13:35:59.852 [info] Running checks...
+2024-09-21 13:35:59.852 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:00.192 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:00.192 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght
+2024-09-21 13:36:00.192 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:12 invalid operation: not enough arguments for cap() (expected 1, found 0) (compile)
+2024-09-21 13:36:00.192 [info] 
+2024-09-21 13:36:03.558 [info] Running checks...
+2024-09-21 13:36:03.558 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:03.881 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:03.881 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght (compile)
+2024-09-21 13:36:03.881 [info] 
+2024-09-21 13:36:05.316 [info] Running checks...
+2024-09-21 13:36:05.316 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:05.649 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:05.649 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght (compile)
+2024-09-21 13:36:05.649 [info] 
+2024-09-21 13:36:42.028 [info] Running checks...
+2024-09-21 13:36:42.029 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:42.351 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:42.351 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:36:42.351 [info] 
+2024-09-21 13:36:43.639 [info] Running checks...
+2024-09-21 13:36:43.639 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:43.980 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:43.980 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected return, expected expression
+2024-09-21 13:36:43.980 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:77:1 syntax error: unexpected }, expected expression (compile)
+2024-09-21 13:36:43.980 [info] 
+2024-09-21 13:36:45.775 [info] Running checks...
+2024-09-21 13:36:45.775 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:46.099 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:46.099 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected return, expected name or (
+2024-09-21 13:36:46.099 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:77:1 syntax error: unexpected }, expected expression (compile)
+2024-09-21 13:36:46.099 [info] 
+2024-09-21 13:36:47.154 [info] Running checks...
+2024-09-21 13:36:47.154 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:47.484 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:47.484 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:36:47.484 [info] 
+2024-09-21 13:36:54.212 [info] Running checks...
+2024-09-21 13:36:54.212 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:54.520 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:54.520 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:36:54.520 [info] 
+2024-09-21 13:36:58.509 [info] Running checks...
+2024-09-21 13:36:58.509 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:36:58.863 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:36:58.863 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected return, expected expression
+2024-09-21 13:36:58.863 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:77:1 syntax error: unexpected }, expected expression (compile)
+2024-09-21 13:36:58.863 [info] 
+2024-09-21 13:37:02.608 [info] Running checks...
+2024-09-21 13:37:02.608 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:02.994 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:02.994 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:37:02.994 [info] 
+2024-09-21 13:37:04.859 [info] Running checks...
+2024-09-21 13:37:04.859 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:05.199 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:05.199 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:37:05.199 [info] 
+2024-09-21 13:37:18.888 [info] Running checks...
+2024-09-21 13:37:18.888 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:19.226 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:19.226 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:3 use of package errors not in selector (compile)
+2024-09-21 13:37:19.226 [info] 
+2024-09-21 13:37:22.852 [info] Running checks...
+2024-09-21 13:37:22.852 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:23.168 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:23.168 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:3 not enough arguments in call to errors.New
+2024-09-21 13:37:23.168 [info] 
+2024-09-21 13:37:26.106 [info] Running checks...
+2024-09-21 13:37:26.106 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:26.474 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:26.474 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:37:26.474 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:3 New doesn't have side effects and its return value is ignored (SA4017)
+2024-09-21 13:37:26.474 [info] 
+2024-09-21 13:37:32.305 [info] Running checks...
+2024-09-21 13:37:32.305 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:32.617 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:32.617 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:3 not enough arguments in call to errors.New
+2024-09-21 13:37:32.617 [info] 
+2024-09-21 13:37:42.980 [info] Running checks...
+2024-09-21 13:37:42.980 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:43.301 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:43.301 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:37:43.301 [info] 
+2024-09-21 13:37:50.564 [info] Running checks...
+2024-09-21 13:37:50.564 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:50.868 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:50.868 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght (compile)
+2024-09-21 13:37:50.868 [info] 
+2024-09-21 13:37:54.430 [info] Running checks...
+2024-09-21 13:37:54.430 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:54.753 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:54.753 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:16 syntax error: unexpected {, expected expression
+2024-09-21 13:37:54.753 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected }, expected {
+2024-09-21 13:37:54.753 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:37:54.753 [info] 
+2024-09-21 13:37:57.196 [info] Running checks...
+2024-09-21 13:37:57.196 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:57.513 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:57.513 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght
+2024-09-21 13:37:57.513 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:5 invalid operation: index < 0 || index (mismatched types untyped bool and int) (compile)
+2024-09-21 13:37:57.513 [info] 
+2024-09-21 13:37:59.169 [info] Running checks...
+2024-09-21 13:37:59.169 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:37:59.486 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:37:59.486 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:26 syntax error: unexpected {, expected expression
+2024-09-21 13:37:59.486 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:76:2 syntax error: unexpected }, expected {
+2024-09-21 13:37:59.486 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:37:59.486 [info] 
+2024-09-21 13:38:01.916 [info] Running checks...
+2024-09-21 13:38:01.917 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:02.237 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:02.237 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:28 syntax error: unexpected {, expected name or (
+2024-09-21 13:38:02.237 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:38:02.238 [info] 
+2024-09-21 13:38:02.790 [info] Running checks...
+2024-09-21 13:38:02.791 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:03.106 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:03.106 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght (compile)
+2024-09-21 13:38:03.106 [info] 
+2024-09-21 13:38:04.612 [info] Running checks...
+2024-09-21 13:38:04.612 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:04.940 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:04.940 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght (compile)
+2024-09-21 13:38:04.940 [info] 
+2024-09-21 13:38:12.025 [info] Running checks...
+2024-09-21 13:38:12.026 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:12.345 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:12.345 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:2 declared and not used: lenght (compile)
+2024-09-21 13:38:12.345 [info] 
+2024-09-21 13:38:16.952 [info] Running checks...
+2024-09-21 13:38:16.952 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:17.320 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:17.320 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:38:17.320 [info] 
+2024-09-21 13:38:18.455 [info] Running checks...
+2024-09-21 13:38:18.455 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:18.804 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:18.804 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:38:18.804 [info] 
+2024-09-21 13:38:30.013 [info] Running checks...
+2024-09-21 13:38:30.013 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:30.366 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:30.366 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:3 error (type) is not an expression (compile)
+2024-09-21 13:38:30.366 [info] 
+2024-09-21 13:38:37.742 [info] Running checks...
+2024-09-21 13:38:37.742 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:38.113 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:38.113 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:38:38.113 [info] 
+2024-09-21 13:38:41.797 [info] Running checks...
+2024-09-21 13:38:41.797 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:42.153 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:42.153 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:38:42.153 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:38:42.153 [info] 
+2024-09-21 13:38:46.670 [info] Running checks...
+2024-09-21 13:38:46.670 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:46.990 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:46.991 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 syntax error: missing condition in if statement (compile)
+2024-09-21 13:38:46.991 [info] 
+2024-09-21 13:38:50.954 [info] Running checks...
+2024-09-21 13:38:50.954 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:51.280 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:51.280 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11 syntax error: missing condition in if statement (compile)
+2024-09-21 13:38:51.280 [info] 
+2024-09-21 13:38:53.099 [info] Running checks...
+2024-09-21 13:38:53.099 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:38:53.402 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:38:53.402 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11 syntax error: missing condition in if statement (compile)
+2024-09-21 13:38:53.402 [info] 
+2024-09-21 13:39:01.963 [info] Running checks...
+2024-09-21 13:39:01.963 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:02.270 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:02.270 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:13 syntax error: unexpected {, expected name or (
+2024-09-21 13:39:02.270 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:39:02.270 [info] 
+2024-09-21 13:39:04.454 [info] Running checks...
+2024-09-21 13:39:04.454 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:04.761 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:04.761 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:11 non-boolean condition in if statement (compile)
+2024-09-21 13:39:04.761 [info] 
+2024-09-21 13:39:08.932 [info] Running checks...
+2024-09-21 13:39:08.932 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:09.246 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:09.246 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:27 syntax error: unexpected {, expected expression
+2024-09-21 13:39:09.246 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:77:2 syntax error: unexpected }, expected {
+2024-09-21 13:39:09.246 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:39:09.246 [info] 
+2024-09-21 13:39:17.980 [info] Running checks...
+2024-09-21 13:39:17.980 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:18.292 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:18.292 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:27 len (built-in) must be called (compile)
+2024-09-21 13:39:18.292 [info] 
+2024-09-21 13:39:20.424 [info] Running checks...
+2024-09-21 13:39:20.424 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:20.741 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:20.741 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:77:3 syntax error: unexpected newline in argument list; possibly missing comma or )
+2024-09-21 13:39:20.741 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:2 syntax error: unexpected return, expected {
+2024-09-21 13:39:20.741 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:1 syntax error: unexpected }, expected expression (compile)
+2024-09-21 13:39:20.741 [info] 
+2024-09-21 13:39:22.120 [info] Running checks...
+2024-09-21 13:39:22.121 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:22.488 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:22.488 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:22.488 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:22.488 [info] 
+2024-09-21 13:39:24.223 [info] Running checks...
+2024-09-21 13:39:24.223 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:24.571 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:24.572 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:24.572 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:24.572 [info] 
+2024-09-21 13:39:34.185 [info] Running checks...
+2024-09-21 13:39:34.185 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:34.538 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:34.538 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:34.538 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:34.538 [info] 
+2024-09-21 13:39:38.309 [info] Running checks...
+2024-09-21 13:39:38.309 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:39:38.649 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:39:38.649 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:38.649 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:39:38.649 [info] 
+2024-09-21 13:40:02.378 [info] Running checks...
+2024-09-21 13:40:02.379 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:02.724 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:02.724 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:4 l.ad undefined (type *ArrayList has no field or method ad) (compile)
+2024-09-21 13:40:02.724 [info] 
+2024-09-21 13:40:03.760 [info] Running checks...
+2024-09-21 13:40:03.761 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:04.063 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:04.063 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:2 not enough arguments in call to l.Add
+2024-09-21 13:40:04.063 [info] 
+2024-09-21 13:40:05.827 [info] Running checks...
+2024-09-21 13:40:05.827 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:06.199 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:06.199 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:06.199 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:06.199 [info] 
+2024-09-21 13:40:07.588 [info] Running checks...
+2024-09-21 13:40:07.589 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:07.969 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:07.969 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:07.969 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:07.969 [info] 
+2024-09-21 13:40:10.768 [info] Running checks...
+2024-09-21 13:40:10.768 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:11.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:11.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2 syntax error: unexpected return, expected expression
+2024-09-21 13:40:11.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:82:1 syntax error: unexpected }, expected expression (compile)
+2024-09-21 13:40:11.082 [info] 
+2024-09-21 13:40:15.917 [info] Running checks...
+2024-09-21 13:40:15.918 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:16.243 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:16.243 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:40:16.243 [info] 
+2024-09-21 13:40:20.621 [info] Running checks...
+2024-09-21 13:40:20.621 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:21.182 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:21.182 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2 syntax error: unexpected return, expected expression (compile)
+2024-09-21 13:40:21.182 [info] 
+2024-09-21 13:40:24.801 [info] Running checks...
+2024-09-21 13:40:24.801 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:25.108 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:25.108 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:79:37 syntax error: unexpected newline, expected { after for clause (compile)
+2024-09-21 13:40:25.109 [info] 
+2024-09-21 13:40:34.266 [info] Running checks...
+2024-09-21 13:40:34.266 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:34.626 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:34.626 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:34.626 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:34.626 [info] 
+2024-09-21 13:40:38.221 [info] Running checks...
+2024-09-21 13:40:38.222 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:38.527 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:38.527 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:38.527 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:38.527 [info] 
+2024-09-21 13:40:40.871 [info] Running checks...
+2024-09-21 13:40:40.871 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:41.190 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:41.190 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:3 l.v (variable of type []int) is not used (compile)
+2024-09-21 13:40:41.190 [info] 
+2024-09-21 13:40:42.357 [info] Running checks...
+2024-09-21 13:40:42.358 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:42.737 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:42.737 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:3 l.v[i] (variable of type int) is not used (compile)
+2024-09-21 13:40:42.737 [info] 
+2024-09-21 13:40:44.765 [info] Running checks...
+2024-09-21 13:40:44.765 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:45.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:45.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:81:2 syntax error: unexpected }, expected expression (compile)
+2024-09-21 13:40:45.082 [info] 
+2024-09-21 13:40:50.329 [info] Running checks...
+2024-09-21 13:40:50.329 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:50.695 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:50.695 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:50.695 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:50.695 [info] 
+2024-09-21 13:40:56.488 [info] Running checks...
+2024-09-21 13:40:56.489 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:40:56.851 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:40:56.851 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:56.851 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:40:56.851 [info] 
+2024-09-21 13:41:02.815 [info] Running checks...
+2024-09-21 13:41:02.815 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:03.177 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:03.177 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:03.177 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:03.177 [info] 
+2024-09-21 13:41:05.154 [info] Running checks...
+2024-09-21 13:41:05.154 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:05.525 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:05.525 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:05.525 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:05.525 [info] 
+2024-09-21 13:41:12.514 [info] Running checks...
+2024-09-21 13:41:12.514 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:12.926 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:12.926 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:83:10 syntax error: unexpected =, expected type (compile)
+2024-09-21 13:41:12.926 [info] 
+2024-09-21 13:41:14.634 [info] Running checks...
+2024-09-21 13:41:14.634 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:14.984 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:14.986 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:14.986 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:14.986 [info] 
+2024-09-21 13:41:17.927 [info] Running checks...
+2024-09-21 13:41:17.927 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:18.298 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:18.298 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:18.298 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:18.298 [info] 
+2024-09-21 13:41:21.186 [info] Running checks...
+2024-09-21 13:41:21.186 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:21.518 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:21.519 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:84:2 l.insertSize (variable of type int) is not used (compile)
+2024-09-21 13:41:21.519 [info] 
+2024-09-21 13:41:24.468 [info] Running checks...
+2024-09-21 13:41:24.468 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:24.824 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:24.824 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:24.824 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:24.824 [info] 
+2024-09-21 13:41:44.366 [info] Running checks...
+2024-09-21 13:41:44.367 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:44.690 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:44.690 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:86:9 cannot use 1 (constant of type int) as error value in return statement: int does not implement error (missing method Error) (compile)
+2024-09-21 13:41:44.690 [info] 
+2024-09-21 13:41:45.761 [info] Running checks...
+2024-09-21 13:41:45.762 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:46.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:46.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:86:2 not enough return values
+2024-09-21 13:41:46.082 [info] 
+2024-09-21 13:41:47.952 [info] Running checks...
+2024-09-21 13:41:47.952 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:41:48.260 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:41:48.260 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:48.260 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:41:48.260 [info] 
+2024-09-21 13:42:11.736 [info] Running checks...
+2024-09-21 13:42:11.736 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:42:12.082 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:42:12.082 [info] 
+2024-09-21 13:42:16.553 [info] Running checks...
+2024-09-21 13:42:16.553 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:42:16.881 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:42:16.881 [info] /home/eduardoabc_edurdo9/Projects/main.go:15:16 syntax error: unexpected ), expected name or ( (compile)
+2024-09-21 13:42:16.881 [info] 
+2024-09-21 13:42:40.607 [info] Running checks...
+2024-09-21 13:42:40.608 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:42:40.941 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:42:40.941 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:11 syntax error: unexpected newline, expected ( (compile)
+2024-09-21 13:42:40.941 [info] 
+2024-09-21 13:42:44.166 [info] Running checks...
+2024-09-21 13:42:44.166 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:42:44.484 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:42:44.484 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:6 missing function body (compile)
+2024-09-21 13:42:44.484 [info] 
+2024-09-21 13:42:45.605 [info] Running checks...
+2024-09-21 13:42:45.605 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:42:45.935 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:42:45.935 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:6 missing function body (compile)
+2024-09-21 13:42:45.935 [info] 
+2024-09-21 13:42:48.259 [info] Running checks...
+2024-09-21 13:42:48.259 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:42:48.608 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:42:48.608 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:42:48.608 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:42:48.608 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:6 func printVetor is unused (U1000)
+2024-09-21 13:42:48.608 [info] 
+2024-09-21 13:43:02.974 [info] Running checks...
+2024-09-21 13:43:02.974 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:43:03.289 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:43:03.289 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:43:03.289 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:43:03.289 [info] 
+2024-09-21 13:43:08.454 [info] Running checks...
+2024-09-21 13:43:08.454 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:43:08.760 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:43:08.760 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 "modPlat/interfaces" imported and not used (compile)
+2024-09-21 13:43:08.760 [info] 
+2024-09-21 13:44:05.806 [info] Running checks...
+2024-09-21 13:44:05.806 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:06.031 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:06.031 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 illegal character U+0023 '#' (compile)
+2024-09-21 13:44:06.031 [info] 
+2024-09-21 13:44:07.247 [info] Running checks...
+2024-09-21 13:44:07.247 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:07.443 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:07.443 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:5:2 illegal character U+0023 '#' (compile)
+2024-09-21 13:44:07.443 [info] 
+2024-09-21 13:44:10.781 [info] Running checks...
+2024-09-21 13:44:10.781 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:11.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:11.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:44:11.082 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:44:11.082 [info] 
+2024-09-21 13:44:17.314 [info] Running checks...
+2024-09-21 13:44:17.314 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/interfaces
+2024-09-21 13:44:17.526 [info] /home/eduardoabc_edurdo9/Projects/interfaces>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:17.526 [info] 
+2024-09-21 13:44:24.941 [info] Running checks...
+2024-09-21 13:44:24.941 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/interfaces
+2024-09-21 13:44:25.151 [info] /home/eduardoabc_edurdo9/Projects/interfaces>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:25.151 [info] 
+2024-09-21 13:44:32.986 [info] Running checks...
+2024-09-21 13:44:32.986 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:33.338 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:33.338 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:44:33.338 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:44:33.338 [info] 
+2024-09-21 13:44:38.254 [info] Running checks...
+2024-09-21 13:44:38.255 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:38.610 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:38.610 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:1 syntax error: unexpected EOF, expected name or ( (compile)
+2024-09-21 13:44:38.610 [info] 
+2024-09-21 13:44:40.407 [info] Running checks...
+2024-09-21 13:44:40.408 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:40.735 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:40.735 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:11 syntax error: unexpected newline, expected ( (compile)
+2024-09-21 13:44:40.735 [info] 
+2024-09-21 13:44:47.724 [info] Running checks...
+2024-09-21 13:44:47.724 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:48.054 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:48.054 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:20 syntax error: unexpected newline, expected name (compile)
+2024-09-21 13:44:48.054 [info] 
+2024-09-21 13:44:55.879 [info] Running checks...
+2024-09-21 13:44:55.880 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:44:56.206 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:44:56.207 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:21 syntax error: unexpected newline, expected name (compile)
+2024-09-21 13:44:56.207 [info] 
+2024-09-21 13:45:00.209 [info] Running checks...
+2024-09-21 13:45:00.209 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:45:00.594 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:45:00.594 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:45:00.594 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:45:00.594 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:21 func (*ArrayList).printVetor is unused (U1000)
+2024-09-21 13:45:00.594 [info] 
+2024-09-21 13:45:04.378 [info] Running checks...
+2024-09-21 13:45:04.379 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:45:04.719 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:45:04.719 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:1 syntax error: unexpected }, expected expression (compile)
+2024-09-21 13:45:04.719 [info] 
+2024-09-21 13:45:17.526 [info] Running checks...
+2024-09-21 13:45:17.526 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:45:17.877 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:45:17.877 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:45:17.877 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:45:17.877 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:21 func (*ArrayList).printVetor is unused (U1000)
+2024-09-21 13:45:17.877 [info] 
+2024-09-21 13:45:54.466 [info] Running checks...
+2024-09-21 13:45:54.466 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:45:54.785 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:45:54.785 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:22 undefined: numbers (compile)
+2024-09-21 13:45:54.786 [info] 
+2024-09-21 13:45:59.617 [info] Running checks...
+2024-09-21 13:45:59.617 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:45:59.972 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:45:59.973 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:45:59.973 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:45:59.973 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:21 func (*ArrayList).printVetor is unused (U1000)
+2024-09-21 13:45:59.973 [info] 
+2024-09-21 13:46:03.859 [info] Running checks...
+2024-09-21 13:46:03.859 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:46:04.201 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:04.201 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:46:04.202 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:46:04.202 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:89:21 func (*ArrayList).printVetor is unused (U1000)
+2024-09-21 13:46:04.202 [info] 
+2024-09-21 13:46:15.447 [info] Running checks...
+2024-09-21 13:46:15.447 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:46:15.800 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:15.800 [info] /home/eduardoabc_edurdo9/Projects/main.go:4:2 "fmt" imported and not used
+2024-09-21 13:46:15.800 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:4 l.pr undefined (type *implementacoes.ArrayList has no field or method pr) (compile)
+2024-09-21 13:46:15.800 [info] 
+2024-09-21 13:46:16.856 [info] Running checks...
+2024-09-21 13:46:16.857 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:46:17.186 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:17.186 [info] /home/eduardoabc_edurdo9/Projects/main.go:4:2 "fmt" imported and not used
+2024-09-21 13:46:17.186 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:4 l.pri undefined (type *implementacoes.ArrayList has no field or method pri) (compile)
+2024-09-21 13:46:17.186 [info] 
+2024-09-21 13:46:19.315 [info] Running checks...
+2024-09-21 13:46:19.316 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:46:19.652 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:19.652 [info] /home/eduardoabc_edurdo9/Projects/main.go:16:1 syntax error: unexpected }, expected name or ( (compile)
+2024-09-21 13:46:19.652 [info] 
+2024-09-21 13:46:25.863 [info] Running checks...
+2024-09-21 13:46:25.863 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:46:26.179 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:26.180 [info] /home/eduardoabc_edurdo9/Projects/main.go:4:2 "fmt" imported and not used
+2024-09-21 13:46:26.180 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:4 l.printVetor undefined (cannot refer to unexported method printVetor) (compile)
+2024-09-21 13:46:26.180 [info] 
+2024-09-21 13:46:34.543 [info] Running checks...
+2024-09-21 13:46:34.543 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:46:34.904 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:34.904 [info] 
+2024-09-21 13:46:40.448 [info] Running checks...
+2024-09-21 13:46:40.448 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:46:40.803 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:40.803 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:46:40.803 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:46:40.803 [info] 
+2024-09-21 13:46:45.022 [info] Running checks...
+2024-09-21 13:46:45.022 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/interfaces
+2024-09-21 13:46:45.224 [info] /home/eduardoabc_edurdo9/Projects/interfaces>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:45.224 [info] 
+2024-09-21 13:46:52.632 [info] Running checks...
+2024-09-21 13:46:52.632 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:46:53.013 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:53.013 [info] /home/eduardoabc_edurdo9/Projects/main.go:15:1 syntax error: unexpected }, expected name or ( (compile)
+2024-09-21 13:46:53.013 [info] 
+2024-09-21 13:46:55.277 [info] Running checks...
+2024-09-21 13:46:55.277 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:46:55.629 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:46:55.629 [info] 
+2024-09-21 13:47:09.351 [info] Running checks...
+2024-09-21 13:47:09.352 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:47:09.720 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:47:09.720 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:47:09.720 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:47:09.720 [info] 
+2024-09-21 13:47:15.002 [info] Running checks...
+2024-09-21 13:47:15.002 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:47:15.320 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:47:15.320 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:33 syntax error: unexpected name num in argument list; possibly missing comma or ) (compile)
+2024-09-21 13:47:15.320 [info] 
+2024-09-21 13:47:20.377 [info] Running checks...
+2024-09-21 13:47:20.378 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:47:20.688 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:47:20.688 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:13 invalid operation: "Elementos do vetor: " + num (mismatched types untyped string and int) (compile)
+2024-09-21 13:47:20.688 [info] 
+2024-09-21 13:47:59.681 [info] Running checks...
+2024-09-21 13:47:59.681 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:47:59.984 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:47:59.984 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:47:59.984 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:47:59.984 [info] 
+2024-09-21 13:48:04.069 [info] Running checks...
+2024-09-21 13:48:04.069 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:04.383 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:04.383 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:48:04.383 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:48:04.383 [info] 
+2024-09-21 13:48:08.478 [info] Running checks...
+2024-09-21 13:48:08.478 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:08.792 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:08.792 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:48:08.793 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:48:08.793 [info] 
+2024-09-21 13:48:10.130 [info] Running checks...
+2024-09-21 13:48:10.130 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:10.447 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:10.447 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:16 cannot use num (variable of type int) as io.Writer value in argument to fmt.Fprintln: int does not implement io.Writer (missing method Write) (compile)
+2024-09-21 13:48:10.447 [info] 
+2024-09-21 13:48:18.123 [info] Running checks...
+2024-09-21 13:48:18.123 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:18.437 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:18.437 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:48:18.437 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:48:18.437 [info] 
+2024-09-21 13:48:34.409 [info] Running checks...
+2024-09-21 13:48:34.409 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:34.722 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:34.722 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:14 cannot use num (variable of type int) as string value in argument to fmt.Printf (compile)
+2024-09-21 13:48:34.722 [info] 
+2024-09-21 13:48:38.314 [info] Running checks...
+2024-09-21 13:48:38.314 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:38.655 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:38.655 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:9 declared and not used: num (compile)
+2024-09-21 13:48:38.655 [info] 
+2024-09-21 13:48:45.911 [info] Running checks...
+2024-09-21 13:48:45.911 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:46.220 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:46.220 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:9 declared and not used: num (compile)
+2024-09-21 13:48:46.220 [info] 
+2024-09-21 13:48:52.051 [info] Running checks...
+2024-09-21 13:48:52.051 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:52.378 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:52.378 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:9 declared and not used: num (compile)
+2024-09-21 13:48:52.378 [info] 
+2024-09-21 13:48:55.989 [info] Running checks...
+2024-09-21 13:48:55.989 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:56.330 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:56.330 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:9 declared and not used: num (compile)
+2024-09-21 13:48:56.330 [info] 
+2024-09-21 13:48:58.636 [info] Running checks...
+2024-09-21 13:48:58.636 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:48:58.963 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:48:58.963 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:9 declared and not used: num (compile)
+2024-09-21 13:48:58.963 [info] 
+2024-09-21 13:49:06.853 [info] Running checks...
+2024-09-21 13:49:06.853 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:07.191 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:07.191 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:9 declared and not used: num (compile)
+2024-09-21 13:49:07.191 [info] 
+2024-09-21 13:49:12.246 [info] Running checks...
+2024-09-21 13:49:12.246 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:12.558 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:12.558 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:9 declared and not used: num (compile)
+2024-09-21 13:49:12.558 [info] 
+2024-09-21 13:49:19.124 [info] Running checks...
+2024-09-21 13:49:19.124 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:19.436 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:19.437 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:16 syntax error: unexpected ) at end of statement (compile)
+2024-09-21 13:49:19.437 [info] 
+2024-09-21 13:49:21.872 [info] Running checks...
+2024-09-21 13:49:21.873 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:22.180 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:22.180 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:22.180 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:22.180 [info] 
+2024-09-21 13:49:25.244 [info] Running checks...
+2024-09-21 13:49:25.245 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:25.653 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:25.653 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:25.653 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:25.653 [info] 
+2024-09-21 13:49:29.128 [info] Running checks...
+2024-09-21 13:49:29.129 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:29.432 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:29.432 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:6 undefined: fmt.P (compile)
+2024-09-21 13:49:29.432 [info] 
+2024-09-21 13:49:34.039 [info] Running checks...
+2024-09-21 13:49:34.039 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:34.402 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:34.402 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:34.402 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:34.402 [info] 
+2024-09-21 13:49:39.732 [info] Running checks...
+2024-09-21 13:49:39.732 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:40.083 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:40.083 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:40.083 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:40.083 [info] 
+2024-09-21 13:49:42.356 [info] Running checks...
+2024-09-21 13:49:42.356 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:49:42.756 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:49:42.757 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:42.757 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:49:42.757 [info] 
+2024-09-21 13:50:40.746 [info] Running checks...
+2024-09-21 13:50:40.746 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:50:41.080 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:50:41.080 [info] 
+2024-09-21 13:50:59.424 [info] Running checks...
+2024-09-21 13:50:59.424 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:50:59.741 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:50:59.742 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:7 syntax error: cannot use i := 0 as value (compile)
+2024-09-21 13:50:59.742 [info] 
+2024-09-21 13:51:02.580 [info] Running checks...
+2024-09-21 13:51:02.580 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:51:02.935 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:02.935 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:16 syntax error: unexpected {, expected expression
+2024-09-21 13:51:02.935 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:92:18 syntax error: unexpected ), expected semicolon or newline
+2024-09-21 13:51:02.935 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:93:2 syntax error: unexpected }, expected { after for clause (compile)
+2024-09-21 13:51:02.935 [info] 
+2024-09-21 13:51:06.118 [info] Running checks...
+2024-09-21 13:51:06.119 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:51:06.445 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:06.445 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:92:15 undefined: num (compile)
+2024-09-21 13:51:06.445 [info] 
+2024-09-21 13:51:08.662 [info] Running checks...
+2024-09-21 13:51:08.662 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:51:08.982 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:08.983 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:92:15 undefined: num (compile)
+2024-09-21 13:51:08.983 [info] 
+2024-09-21 13:51:13.545 [info] Running checks...
+2024-09-21 13:51:13.545 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:51:13.895 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:13.896 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:51:13.896 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:51:13.896 [info] 
+2024-09-21 13:51:14.764 [info] Running checks...
+2024-09-21 13:51:14.764 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:51:15.119 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:15.119 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:31:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:51:15.119 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:51:15.119 [info] 
+2024-09-21 13:51:19.327 [info] Running checks...
+2024-09-21 13:51:19.327 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:51:19.695 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:19.695 [info] 
+2024-09-21 13:51:32.325 [info] Running checks...
+2024-09-21 13:51:32.326 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:51:32.648 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:32.648 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:2 l.l undefined (type *implementacoes.ArrayList has no field or method l) (compile)
+2024-09-21 13:51:32.648 [info] 
+2024-09-21 13:51:34.026 [info] Running checks...
+2024-09-21 13:51:34.026 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:51:34.353 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:34.353 [info] /home/eduardoabc_edurdo9/Projects/main.go:13:2 not enough arguments in call to l.Add2
+2024-09-21 13:51:34.353 [info] 
+2024-09-21 13:51:37.247 [info] Running checks...
+2024-09-21 13:51:37.247 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:51:37.560 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:37.560 [info] /home/eduardoabc_edurdo9/Projects/main.go:13:9 not enough arguments in call to l.Add2
+2024-09-21 13:51:37.560 [info] 
+2024-09-21 13:51:39.490 [info] Running checks...
+2024-09-21 13:51:39.490 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:51:39.802 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:39.802 [info] /home/eduardoabc_edurdo9/Projects/main.go:13:9 not enough arguments in call to l.Add2
+2024-09-21 13:51:39.802 [info] 
+2024-09-21 13:51:40.861 [info] Running checks...
+2024-09-21 13:51:40.861 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:51:41.198 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:41.198 [info] 
+2024-09-21 13:51:42.574 [info] Running checks...
+2024-09-21 13:51:42.574 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 13:51:42.996 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:51:42.996 [info] 
+2024-09-21 13:53:20.412 [info] Running checks...
+2024-09-21 13:53:20.412 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:53:20.761 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:53:20.761 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:53:20.761 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:53:20.761 [info] 
+2024-09-21 13:54:58.835 [info] Running checks...
+2024-09-21 13:54:58.835 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:54:59.162 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:54:59.162 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:6 undefined: fmt.PrintLn (compile)
+2024-09-21 13:54:59.162 [info] 
+2024-09-21 13:54:59.595 [info] Running checks...
+2024-09-21 13:54:59.595 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:54:59.970 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:54:59.970 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:54:59.970 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:54:59.970 [info] 
+2024-09-21 13:55:03.253 [info] Running checks...
+2024-09-21 13:55:03.253 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:55:03.666 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:55:03.666 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:03.666 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:03.666 [info] 
+2024-09-21 13:55:05.741 [info] Running checks...
+2024-09-21 13:55:05.741 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:55:06.063 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:55:06.064 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:78:16 syntax error: unexpected ), expected name or ( (compile)
+2024-09-21 13:55:06.064 [info] 
+2024-09-21 13:55:08.616 [info] Running checks...
+2024-09-21 13:55:08.616 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:55:08.970 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:55:08.971 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:08.971 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:08.971 [info] 
+2024-09-21 13:55:21.225 [info] Running checks...
+2024-09-21 13:55:21.225 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:55:21.531 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:55:21.532 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:21.532 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:21.532 [info] 
+2024-09-21 13:55:26.361 [info] Running checks...
+2024-09-21 13:55:26.361 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:55:26.713 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:55:26.713 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:26.713 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:26.713 [info] 
+2024-09-21 13:55:53.113 [info] Running checks...
+2024-09-21 13:55:53.114 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:55:53.461 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:55:53.461 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:53.461 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:55:53.461 [info] 
+2024-09-21 13:56:08.247 [info] Running checks...
+2024-09-21 13:56:08.248 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:56:08.551 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:56:08.552 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:56:08.552 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:56:08.552 [info] 
+2024-09-21 13:57:32.270 [info] Running checks...
+2024-09-21 13:57:32.270 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:57:32.588 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:57:32.588 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:90:32 syntax error: unexpected semicolon, expected expression
+2024-09-21 13:57:32.588 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:91:20 syntax error: unexpected ], expected semicolon or newline (compile)
+2024-09-21 13:57:32.588 [info] 
+2024-09-21 13:57:34.377 [info] Running checks...
+2024-09-21 13:57:34.377 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 13:57:34.723 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 13:57:34.723 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 13:57:34.723 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 13:57:34.723 [info] 
+2024-09-21 14:04:54.184 [info] Running checks...
+2024-09-21 14:04:54.184 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:04:54.548 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:04:54.548 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:04:54.548 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:72:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:04:54.548 [info] 
+2024-09-21 14:04:57.078 [info] Running checks...
+2024-09-21 14:04:57.079 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:04:57.451 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:04:57.451 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:04:57.451 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:04:57.451 [info] 
+2024-09-21 14:04:58.575 [info] Running checks...
+2024-09-21 14:04:58.578 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:04:58.915 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:04:58.916 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:04:58.916 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:04:58.916 [info] 
+2024-09-21 14:05:01.510 [info] Running checks...
+2024-09-21 14:05:01.510 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:05:01.858 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:05:01.858 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:05:01.858 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:05:01.858 [info] 
+2024-09-21 14:05:06.278 [info] Running checks...
+2024-09-21 14:05:06.279 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:05:06.581 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:05:06.581 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:05:06.581 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:05:06.581 [info] 
+2024-09-21 14:05:13.751 [info] Running checks...
+2024-09-21 14:05:13.751 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:05:14.118 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:05:14.118 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:05:14.118 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:05:14.118 [info] 
+2024-09-21 14:05:21.216 [info] Running checks...
+2024-09-21 14:05:21.216 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:05:21.550 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:05:21.550 [info] 
+2024-09-21 14:06:26.103 [info] Running checks...
+2024-09-21 14:06:26.103 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:06:26.466 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:06:26.466 [info] 
+2024-09-21 14:06:29.109 [info] Running checks...
+2024-09-21 14:06:29.109 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:06:29.449 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:06:29.449 [info] 
+2024-09-21 14:06:32.440 [info] Running checks...
+2024-09-21 14:06:32.440 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:06:32.840 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:06:32.840 [info] 
+2024-09-21 14:06:47.676 [info] Running checks...
+2024-09-21 14:06:47.676 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:06:47.991 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:06:47.991 [info] 
+2024-09-21 14:06:48.931 [info] Running checks...
+2024-09-21 14:06:48.932 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:06:49.235 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:06:49.235 [info] 
+2024-09-21 14:07:09.374 [info] Running checks...
+2024-09-21 14:07:09.374 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:07:09.700 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:09.700 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:3 undefined: fm (compile)
+2024-09-21 14:07:09.701 [info] 
+2024-09-21 14:07:12.903 [info] Running checks...
+2024-09-21 14:07:12.903 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:07:13.229 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:13.229 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:7 undefined: fmt.P (compile)
+2024-09-21 14:07:13.229 [info] 
+2024-09-21 14:07:16.571 [info] Running checks...
+2024-09-21 14:07:16.571 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:07:16.923 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:16.923 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:16.923 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:16.923 [info] 
+2024-09-21 14:07:31.065 [info] Running checks...
+2024-09-21 14:07:31.065 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:07:31.431 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:31.431 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:31.432 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:31.432 [info] 
+2024-09-21 14:07:45.111 [info] Running checks...
+2024-09-21 14:07:45.111 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:07:45.436 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:45.436 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:45.436 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:45.436 [info] 
+2024-09-21 14:07:46.260 [info] Running checks...
+2024-09-21 14:07:46.261 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:07:46.582 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:46.582 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:46.582 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:07:46.582 [info] 
+2024-09-21 14:07:52.964 [info] Running checks...
+2024-09-21 14:07:52.964 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:07:53.271 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:53.272 [info] /home/eduardoabc_edurdo9/Projects/main.go:13:2 syntax error: unexpected /, expected } (compile)
+2024-09-21 14:07:53.272 [info] 
+2024-09-21 14:07:54.260 [info] Running checks...
+2024-09-21 14:07:54.260 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:07:54.579 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:54.579 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:2 syntax error: unexpected /, expected } (compile)
+2024-09-21 14:07:54.579 [info] 
+2024-09-21 14:07:55.665 [info] Running checks...
+2024-09-21 14:07:55.665 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:07:55.997 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:07:55.997 [info] 
+2024-09-21 14:08:11.345 [info] Running checks...
+2024-09-21 14:08:11.345 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:08:11.695 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:08:11.696 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:08:11.696 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:08:11.696 [info] 
+2024-09-21 14:08:26.256 [info] Running checks...
+2024-09-21 14:08:26.256 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:08:26.607 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:08:26.607 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:08:26.607 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:08:26.607 [info] 
+2024-09-21 14:08:39.275 [info] Running checks...
+2024-09-21 14:08:39.275 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:08:39.628 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:08:39.628 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:08:39.628 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:10 error strings should not be capitalized (ST1005)
+2024-09-21 14:08:39.628 [info] 
+2024-09-21 14:08:48.599 [info] Running checks...
+2024-09-21 14:08:48.600 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:08:48.936 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:08:48.936 [info] 
+2024-09-21 14:08:51.456 [info] Running checks...
+2024-09-21 14:08:51.456 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:08:51.766 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:08:51.766 [info] 
+2024-09-21 14:09:07.937 [info] Running checks...
+2024-09-21 14:09:07.937 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:09:08.351 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:08.351 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:37 syntax error: unexpected newline in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:09:08.351 [info] 
+2024-09-21 14:09:13.510 [info] Running checks...
+2024-09-21 14:09:13.511 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:09:13.810 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:13.810 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:75:2 syntax error: unexpected }, expected name or (
+2024-09-21 14:09:13.810 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:88:34 syntax error: unexpected { at end of statement (compile)
+2024-09-21 14:09:13.810 [info] 
+2024-09-21 14:09:20.057 [info] Running checks...
+2024-09-21 14:09:20.057 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:09:20.362 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:20.362 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:10 not enough arguments in call to errors.New
+2024-09-21 14:09:20.362 [info] 
+2024-09-21 14:09:24.425 [info] Running checks...
+2024-09-21 14:09:24.425 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:09:24.783 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:24.783 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:09:24.783 [info] 
+2024-09-21 14:09:28.201 [info] Running checks...
+2024-09-21 14:09:28.201 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:09:28.569 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:28.570 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:09:28.570 [info] 
+2024-09-21 14:09:33.376 [info] Running checks...
+2024-09-21 14:09:33.376 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:09:33.748 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:33.748 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:09:33.748 [info] 
+2024-09-21 14:09:44.723 [info] Running checks...
+2024-09-21 14:09:44.723 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:09:45.160 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:45.160 [info] /home/eduardoabc_edurdo9/Projects/main.go:13:2 undefined: fmt (compile)
+2024-09-21 14:09:45.160 [info] 
+2024-09-21 14:09:46.269 [info] Running checks...
+2024-09-21 14:09:46.270 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:09:46.588 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:46.588 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:14 syntax error: unexpected ., expected expression (compile)
+2024-09-21 14:09:46.588 [info] 
+2024-09-21 14:09:48.907 [info] Running checks...
+2024-09-21 14:09:48.907 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:09:49.209 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:49.209 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:25 syntax error: unexpected newline in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:09:49.209 [info] 
+2024-09-21 14:09:51.397 [info] Running checks...
+2024-09-21 14:09:51.398 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:09:51.713 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:51.713 [info] /home/eduardoabc_edurdo9/Projects/main.go:14:27 syntax error: unexpected newline in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:09:51.713 [info] 
+2024-09-21 14:09:53.463 [info] Running checks...
+2024-09-21 14:09:53.463 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:09:53.802 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:09:53.802 [info] 
+2024-09-21 14:10:13.350 [info] Running checks...
+2024-09-21 14:10:13.350 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:10:13.729 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:10:13.729 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:10:13.729 [info] 
+2024-09-21 14:10:15.953 [info] Running checks...
+2024-09-21 14:10:15.954 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:10:16.310 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:10:16.311 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:10:16.311 [info] 
+2024-09-21 14:11:28.038 [info] Running checks...
+2024-09-21 14:11:28.038 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:11:28.410 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:11:28.410 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:11:28.410 [info] 
+2024-09-21 14:12:02.162 [info] Running checks...
+2024-09-21 14:12:02.162 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:02.488 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:02.488 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2 syntax error: unexpected return, expected expression
+2024-09-21 14:12:02.488 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:68:1 syntax error: unexpected }, expected expression
+2024-09-21 14:12:02.488 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:12:02.488 [info] 
+2024-09-21 14:12:03.584 [info] Running checks...
+2024-09-21 14:12:03.584 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:03.885 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:03.885 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2 syntax error: unexpected return, expected expression
+2024-09-21 14:12:03.885 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:68:1 syntax error: unexpected }, expected expression
+2024-09-21 14:12:03.885 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:12:03.885 [info] 
+2024-09-21 14:12:08.111 [info] Running checks...
+2024-09-21 14:12:08.111 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:08.432 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:08.432 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2 syntax error: unexpected return, expected expression
+2024-09-21 14:12:08.432 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:12:08.432 [info] 
+2024-09-21 14:12:13.698 [info] Running checks...
+2024-09-21 14:12:13.699 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:14.016 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:14.016 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2 syntax error: unexpected return, expected expression
+2024-09-21 14:12:14.016 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:12:14.016 [info] 
+2024-09-21 14:12:22.400 [info] Running checks...
+2024-09-21 14:12:22.400 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:22.742 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:22.743 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:67:2 syntax error: unexpected return, expected expression
+2024-09-21 14:12:22.743 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:12:22.743 [info] 
+2024-09-21 14:12:28.923 [info] Running checks...
+2024-09-21 14:12:28.924 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:29.285 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:29.285 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:12:29.285 [info] 
+2024-09-21 14:12:33.439 [info] Running checks...
+2024-09-21 14:12:33.439 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:33.776 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:33.776 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:66:3 not enough return values
+2024-09-21 14:12:33.776 [info] 
+2024-09-21 14:12:39.327 [info] Running checks...
+2024-09-21 14:12:39.327 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:39.632 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:39.632 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:66:10 use of package errors not in selector (compile)
+2024-09-21 14:12:39.632 [info] 
+2024-09-21 14:12:41.500 [info] Running checks...
+2024-09-21 14:12:41.501 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:41.852 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:41.852 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:12:41.852 [info] 
+2024-09-21 14:12:50.568 [info] Running checks...
+2024-09-21 14:12:50.568 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:50.925 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:50.925 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:12:50.925 [info] 
+2024-09-21 14:12:59.323 [info] Running checks...
+2024-09-21 14:12:59.323 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:12:59.670 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:12:59.670 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:12:59.670 [info] 
+2024-09-21 14:13:12.866 [info] Running checks...
+2024-09-21 14:13:12.866 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:13.178 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:13.178 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:80:4 syntax error: unexpected if at end of statement (compile)
+2024-09-21 14:13:13.178 [info] 
+2024-09-21 14:13:15.441 [info] Running checks...
+2024-09-21 14:13:15.441 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:15.790 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:15.790 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:13:15.790 [info] 
+2024-09-21 14:13:21.642 [info] Running checks...
+2024-09-21 14:13:21.642 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:21.991 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:21.992 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:13:21.992 [info] 
+2024-09-21 14:13:32.930 [info] Running checks...
+2024-09-21 14:13:32.930 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:33.281 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:33.281 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:13:33.281 [info] 
+2024-09-21 14:13:43.088 [info] Running checks...
+2024-09-21 14:13:43.088 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:43.406 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:43.406 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2 syntax error: unexpected return, expected expression
+2024-09-21 14:13:43.406 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:13:43.406 [info] 
+2024-09-21 14:13:47.472 [info] Running checks...
+2024-09-21 14:13:47.473 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:47.797 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:47.797 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2 syntax error: unexpected return, expected expression
+2024-09-21 14:13:47.797 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:13:47.797 [info] 
+2024-09-21 14:13:50.313 [info] Running checks...
+2024-09-21 14:13:50.313 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:50.626 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:50.626 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2 syntax error: unexpected return, expected expression
+2024-09-21 14:13:50.626 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:13:50.626 [info] 
+2024-09-21 14:13:56.488 [info] Running checks...
+2024-09-21 14:13:56.488 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:56.803 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:56.804 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2 syntax error: unexpected return, expected expression
+2024-09-21 14:13:56.804 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:13:56.804 [info] 
+2024-09-21 14:13:59.542 [info] Running checks...
+2024-09-21 14:13:59.542 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:13:59.869 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:13:59.869 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:71:2 syntax error: unexpected return, expected expression
+2024-09-21 14:13:59.869 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:13:59.869 [info] 
+2024-09-21 14:14:02.533 [info] Running checks...
+2024-09-21 14:14:02.534 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:02.918 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:02.918 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:69:39 syntax error: unexpected newline, expected { after for clause
+2024-09-21 14:14:02.918 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:74:35 syntax error: unexpected name int in argument list; possibly missing comma or ) (compile)
+2024-09-21 14:14:02.918 [info] 
+2024-09-21 14:14:04.699 [info] Running checks...
+2024-09-21 14:14:04.699 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:05.074 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:05.075 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:14:05.075 [info] 
+2024-09-21 14:14:11.373 [info] Running checks...
+2024-09-21 14:14:11.374 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:11.690 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:11.690 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:3 undefined: n (compile)
+2024-09-21 14:14:11.690 [info] 
+2024-09-21 14:14:15.060 [info] Running checks...
+2024-09-21 14:14:15.060 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:15.381 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:15.381 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:70:3 undefined: n (compile)
+2024-09-21 14:14:15.381 [info] 
+2024-09-21 14:14:18.253 [info] Running checks...
+2024-09-21 14:14:18.253 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:18.614 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:18.614 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:14:18.614 [info] 
+2024-09-21 14:14:27.044 [info] Running checks...
+2024-09-21 14:14:27.044 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:27.373 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:27.373 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:73:4 l.si undefined (type *ArrayList has no field or method si) (compile)
+2024-09-21 14:14:27.373 [info] 
+2024-09-21 14:14:30.491 [info] Running checks...
+2024-09-21 14:14:30.492 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:30.854 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:30.854 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:14:30.854 [info] 
+2024-09-21 14:14:31.957 [info] Running checks...
+2024-09-21 14:14:31.957 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects/implementacoes
+2024-09-21 14:14:32.322 [info] /home/eduardoabc_edurdo9/Projects/implementacoes>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:32.322 [info] /home/eduardoabc_edurdo9/Projects/implementacoes/ArrayList.go:30:17 error strings should not be capitalized (ST1005)
+2024-09-21 14:14:32.322 [info] 
+2024-09-21 14:14:57.498 [info] Running checks...
+2024-09-21 14:14:57.498 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:14:57.849 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:57.849 [info] 
+2024-09-21 14:14:59.342 [info] Running checks...
+2024-09-21 14:14:59.342 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:14:59.712 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:14:59.712 [info] 
+2024-09-21 14:15:02.484 [info] Running checks...
+2024-09-21 14:15:02.484 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:15:02.861 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:15:02.861 [info] /home/eduardoabc_edurdo9/Projects/main.go:15:2 not enough arguments in call to l.Remove
+2024-09-21 14:15:02.861 [info] 
+2024-09-21 14:15:04.375 [info] Running checks...
+2024-09-21 14:15:04.375 [info] Starting linting the current package at /home/eduardoabc_edurdo9/Projects
+2024-09-21 14:15:04.731 [info] /home/eduardoabc_edurdo9/Projects>Finished running tool: /google/gopath/bin/staticcheck
+2024-09-21 14:15:04.731 [info] 

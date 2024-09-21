@@ -1,0 +1,24 @@
+[Info  - 8:27:31 PM] 2024/09/19 20:27:31 Created View (#1)
+	directory=/home/eduardoabc_edurdo9
+	view_type="AdHoc"
+	root_dir="file:///home/eduardoabc_edurdo9"
+	go_version="go version go1.23.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/eduardoabc_edurdo9/.cache/go-build GOMODCACHE:/home/eduardoabc_edurdo9/gopath/pkg/mod GOPATH:/home/eduardoabc_edurdo9/gopath:/google/gopath GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GoVersion:23 GoVersionOutput:go version go1.23.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 8:27:32 PM] 2024/09/19 20:27:32 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/eduardoabc_edurdo9
+	query=[./ builtin]
+	packages=2
+	duration=859.865033ms
+
+[Error - 8:27:39 PM] 2024/09/19 20:27:39 imports fixes: allImportsFixes: /home/eduardoabc_edurdo9/lista.go:47:18: expected operand, found ';' (and 8 more errors)
+	file="/home/eduardoabc_edurdo9/lista.go"
+
+[Info  - 8:27:51 PM] 2024/09/19 20:27:51 Shutdown session
+	shutdown_session=1
+
