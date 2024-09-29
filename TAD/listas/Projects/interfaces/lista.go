@@ -6,7 +6,7 @@ type Lista interface {
 	Add(elemento int)
 	Add2(elemento int, index int) error
 	Remove(index int) error
-	PrintVetor()
+	
 }
 
 /*

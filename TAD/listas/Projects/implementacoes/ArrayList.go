@@ -3,7 +3,7 @@ package implementacoes
 import (
 	"errors"
 	//"modPlat/interfaces"
-	"fmt"
+	//"fmt"
 )
 
 type ArrayList struct {
@@ -95,12 +95,4 @@ func (l *ArrayList) Add2(elemento int, index int) error {
 	l.v[index] = elemento
 
 	return nil
-}
-
-func (l *ArrayList) PrintVetor() {
-	fmt.Println("Elementos do vetor: ")
-	for i := 0; i < l.insertSize; i++ {
-		fmt.Println(l.v[i])
-	}
-
 }
