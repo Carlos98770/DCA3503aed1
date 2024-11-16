@@ -1,4 +1,5 @@
-package implementacoes
+package implementacoes_listas
+
 
 import (
 	"errors"

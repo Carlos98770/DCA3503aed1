@@ -1,4 +1,5 @@
-package ed
+package implementacoes_listas
+
 
 import (
 	"errors"
