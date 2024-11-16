@@ -1,6 +1,0 @@
-package lista
-
-import (
-	"lista"
-)
-
